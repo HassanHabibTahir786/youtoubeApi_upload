@@ -35,6 +35,9 @@ Create Upload API with multer
 Use Youtube API for uploading videos on youtube
 
 
+https://www.npmjs.com/package/youtube-api
+
+
 
 In the project directory, you can run:
 
